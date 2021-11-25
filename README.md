@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WarakornFluke from Bangkok , Thailand 
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on Healthcare and Education.
+- 💞️ I’m looking in branch of Healthcare and Education.
 - 📫 How to reach me 
 Facebook : Warakorn Fluke
 - Thank you for a look at my profile.
